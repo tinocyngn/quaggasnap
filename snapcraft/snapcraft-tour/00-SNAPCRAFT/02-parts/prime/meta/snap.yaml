@@ -1,0 +1,14 @@
+apps:
+  bash:
+    command: command-bash.wrapper
+  hello:
+    command: command-hello.wrapper
+architectures:
+- amd64
+confinement: strict
+description: GNU hello prints a friendly greeting. This is part of the snapcraft tour
+  at http://snapcraft.io/create/
+grade: stable
+name: hello-debug
+summary: GNU Hello, the "hello world" snap
+version: '2.10'
