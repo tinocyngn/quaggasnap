@@ -1,5 +1,5 @@
-name: quagga
-version: 1.0.20160315
+name: XXXquaggaXXX
+version: 1.0.20160311
 summary: Quagga BGP/OSPFv2/OSPFv3/ISIS/RIP/RIPng/PIM routing daemon
 description: BGP/OSPFv2/OSPFv3/ISIS/RIP/RIPng/PIM routing daemon
  GNU Quagga is free software which manages TCP/IP based routing protocols.
